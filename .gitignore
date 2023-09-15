@@ -1,0 +1,9 @@
+# Exclude the virtual environment directory
+venv
+
+# Exclude any compiled Python files
+*.pyc
+*.pyo
+
+# Exclude other temporary or generated files
+__pycache__/
