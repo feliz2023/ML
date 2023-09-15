@@ -77,7 +77,7 @@ print(approximate_boot_size[0])
 
 
 # Let's begin by opening the dataset from file.
-# import pandas
+
 # !pip install statsmodels
 # !wget https://raw.githubusercontent.com/MicrosoftDocs/mslearn-introduction-to-machine-learning/main/graphing.py
 # !wget https://raw.githubusercontent.com/MicrosoftDocs/mslearn-introduction-to-machine-learning/main/Data/doggy-boot-harness.csv
